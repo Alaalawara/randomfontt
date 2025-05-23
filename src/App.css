@@ -1,0 +1,15 @@
+#root {
+  max-width: 100%;
+  font-family: inherit;
+  margin: 0 auto; 
+  --primary: #000000;
+  --secondary: #5b190b;
+  --boxes: #d52f0d;
+  --background: #f24623;
+}
+
+/* 
+ --primary: #d82b12;
+  --secondary: #d82b12;
+  --boxes: #d52f0d;
+  --background: #f9fbda; */
